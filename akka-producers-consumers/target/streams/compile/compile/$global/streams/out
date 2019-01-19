@@ -1,4 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/mzembol/Study/Projekty/TEORIA WSPOLDZIELNOSCI/akka-quickstart-scala/src/main/scala/ProdConsAkka.scala:120:11: value shutdown is not a member of akka.actor.ActorSystem[0m
-[0m[[0m[31merror[0m] [0m[0m   system.shutdown[0m
-[0m[[0m[31merror[0m] [0m[0m          ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
