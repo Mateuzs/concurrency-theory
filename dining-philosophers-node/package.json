@@ -1,0 +1,10 @@
+{
+  "name": "my-project",
+  "description": "...",
+  "author": "someone",
+  "dependencies": {
+    "async": "2.6.x",
+    "performance-now": "^2.1.0"
+  },
+  "engine": "node >= 8.9.x"
+}
